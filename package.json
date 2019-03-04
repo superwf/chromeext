@@ -1,0 +1,24 @@
+{
+  "name": "chromeext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest -c jest.config.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-config-recommended": "^4.0.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "jest": "^23.6.0",
+    "jest-environment-puppeteer": "^3.5.1",
+    "jest-puppeteer": "^3.5.1",
+    "prettier": "^1.15.2",
+    "puppeteer": "^1.10.0"
+  },
+  "dependencies": {
+    "module-alias": "^2.1.0",
+    "puppeteer-core": "^1.10.0"
+  }
+}
