@@ -18,6 +18,7 @@ port.onMessage.addListener(function(msg) {
 const { log, table } = console
 
 for (const k in chrome) {
+  log(1)
   log(k)
 }
 // chrome.bookmarks.getRecent(4, log)

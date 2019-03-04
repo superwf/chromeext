@@ -14,8 +14,7 @@
     "jest": "^23.6.0",
     "jest-environment-puppeteer": "^3.5.1",
     "jest-puppeteer": "^3.5.1",
-    "prettier": "^1.15.2",
-    "puppeteer": "^1.10.0"
+    "prettier": "^1.15.2"
   },
   "dependencies": {
     "module-alias": "^2.1.0",
